@@ -72,6 +72,7 @@
   document.querySelectorAll('[data-mode]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.mode===mode)));
   ({map:byMap,class:byClass,rooms:byRooms,checks})[mode]();
  }
+ $('now').onclick=()=>{const now=new Date();$('time').value=String(now.getHours()).padStart(2,'0')+':'+String(now.getMinutes()).padStart(2,'0');render();};
  document.querySelectorAll('[data-mode]').forEach(b=>b.onclick=()=>{mode=b.dataset.mode;render();});
  for(const id of ['day','class','room','time','status','issue'])$(id).addEventListener('change',render);
  $('output').addEventListener('click',e=>{
