@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="11px" viewBox="0 0 15 11" enable-background="new 0 0 15 11" xml:space="preserve">
+    <path fill-rule="evenodd" clip-rule="evenodd" fill="hsl(180deg 17% 86%)" d="M14,0H7v1h7V0z M0,2v1h1v1h1v7h1h9h1V4h1V3h1V2H0z M4,9H3V7h1V9 z M4,6H3V4h1V6z M6,9H5V7h1V9z M6,6H5V4h1V6z M8,9H7V7h1V9z M8,6H7V4h1V6z M10,9H9V7h1V9z M10,6H9V4h1V6z M12,9h-1V7h1V9z M12,6 h-1V4h1V6z"/>
+		<rect x="1" y="4" fill="hsl(180deg 17% 86%)" width="1" height="1"/>
+		<rect x="13" y="4" fill="hsl(180deg 17% 86%)" width="1" height="1"/>
+		<rect x="1" y="5" fill="hsl(180deg 17% 86%)" width="1" height="1"/>
+		<rect x="13" y="5" fill="hsl(180deg 17% 86%)" width="1" height="1"/>
+		<rect x="1" y="6" fill="hsl(180deg 17% 86%)" width="1" height="1"/>
+		<rect x="13" y="6" fill="hsl(180deg 17% 86%)" width="1" height="1"/>
+		<rect x="1" y="7" fill="hsl(180deg 17% 86%)" width="1" height="1"/>
+		<rect x="13" y="7" fill="hsl(180deg 17% 86%)" width="1" height="1"/>
+		<rect x="1" y="7" fill="hsl(180deg 17% 86%)" width="1" height="1"/>
+		<rect x="13" y="7" fill="hsl(180deg 17% 86%)" width="1" height="1"/>
+		<rect x="6" fill="hsl(180deg 17% 86%)" width="1" height="1"/>
+</svg>
